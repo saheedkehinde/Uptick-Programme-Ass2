@@ -72,7 +72,7 @@ dead link, a comprehensive modal was implemented to display detailed information
 
 ## Phase 6: Performance Optimization and Accessibility
 
-Achieving a "perfect" app means not just functionality but also ensuring it's fast and usable for everyone.
+
 
 ### Performance Optimization:
 *   **`React.memo`**: The `MovieCard` component was wrapped with `React.memo`. This is a higher-order component that prevents a component from re-rendering if its props haven't changed. In a grid of many movie cards, this significantly reduces unnecessary re-renders and boosts performance.
