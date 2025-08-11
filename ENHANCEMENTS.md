@@ -108,7 +108,7 @@ All original assignment requirements have been successfully implemented:
 - **Screen Readers**: Full accessibility support
 
 ## 🔗 Live Application
-**Production URL**: https://aoeshsiz.manus.space
+
 
 ### Test Credentials
 - **Username**: Any username with 3+ characters (e.g., "jedi_master")
